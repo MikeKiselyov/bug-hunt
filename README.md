@@ -10,6 +10,7 @@ mark a bug in two clicks and get it verified automatically. No accounts, no back
 
 [![Deploy](https://github.com/MikeKiselyov/bug-bounty/actions/workflows/deploy.yml/badge.svg)](https://github.com/MikeKiselyov/bug-bounty/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-c8f542.svg)](LICENSE)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mike_kiselyov)
 
 ## Who it is for
 
