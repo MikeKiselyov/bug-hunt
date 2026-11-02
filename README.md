@@ -6,9 +6,9 @@ An open source playground for QA engineers. Every case is a small, realistic app
 a sign-up form, a cart, a data table, a file upload, a profile API. Explore it like you would at work,
 mark a bug in two clicks and get it verified automatically. No accounts, no backend, no forms to fill.
 
-**Play:** https://mikekiselyov.github.io/bug-bounty/
+**Play:** https://mikekiselyov.github.io/bug-hunt/
 
-[![Deploy](https://github.com/MikeKiselyov/bug-bounty/actions/workflows/deploy.yml/badge.svg)](https://github.com/MikeKiselyov/bug-bounty/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/MikeKiselyov/bug-hunt/actions/workflows/deploy.yml/badge.svg)](https://github.com/MikeKiselyov/bug-hunt/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-c8f542.svg)](LICENSE)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mike_kiselyov)
 
@@ -89,8 +89,8 @@ Yes, the bugs are in the source code. Reading it first only cheats yourself.
 Requires Node.js 20.19+ (22 recommended).
 
 ```bash
-git clone https://github.com/MikeKiselyov/bug-bounty.git
-cd bug-bounty
+git clone https://github.com/MikeKiselyov/bug-hunt.git
+cd bug-hunt
 npm install
 npm run dev      # http://localhost:5173
 ```
@@ -139,7 +139,7 @@ and push to `main`. The base path is relative, so the repository name does not m
 New cases, bug ideas and fixes of accidental bugs are welcome.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the case format and the rules for planted bugs.
 
-Found a bug that is not in the catalog? [Open an issue](https://github.com/MikeKiselyov/bug-bounty/issues):
+Found a bug that is not in the catalog? [Open an issue](https://github.com/MikeKiselyov/bug-hunt/issues):
 it is either a new bug for the catalog or a real one to fix.
 
 ## License
@@ -148,6 +148,6 @@ it is either a new bug for the catalog or a real one to fix.
 
 ## Support
 
-bug-bounty is free and open source. If it helped you practise or hire, you can buy me a coffee:
+bug-hunt is free and open source. If it helped you practise or hire, you can buy me a coffee:
 
 <a href="https://buymeacoffee.com/mike_kiselyov"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
